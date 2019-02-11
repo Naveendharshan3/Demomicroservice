@@ -9,7 +9,7 @@ public class Restcontrollers {
 	@GetMapping
 	public String all()
 	{
-		return "Hi there here is ur  first docker container RUNNING SUCESSFULLY..!";
+		return "Hi there here is ur  first docker container RUNNING SUCESSFULLY...!";
 	}
 
 }
